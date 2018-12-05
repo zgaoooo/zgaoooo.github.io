@@ -1,7 +1,4 @@
 # resume page
 
-#### http://zhongink.gitee.io/page
+#### https://zgaoooo.github.io/Love/index.html
 
-![输入图片说明]( ./static/image/catch_1.png "catch")
-![输入图片说明]( ./static/image/catch_2.png "catch")
-![输入图片说明]( ./static/image/catch_3.png "catch")
